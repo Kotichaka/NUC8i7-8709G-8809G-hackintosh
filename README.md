@@ -4,7 +4,7 @@
 # 更新OC至）0.76正式版
 更新kexts至最新版
 
-# 支持Catalina、big sur 、Monterey 12.1正式版
+# 支持Catalina、big sur 、Monterey 12.1正式版‍Hello!!! Please tell me how to install, big sur and where to download a bootable USB flash drive. I purchased this product and do not know how to install https://github.com/Xmingbai/NUC8i7-8709G-8809G-hackintosh
 
 
 
